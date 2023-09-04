@@ -1,0 +1,1 @@
+DELETE FROM user WHERE username LIKE "Yo2"
